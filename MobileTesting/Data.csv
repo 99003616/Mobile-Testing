@@ -1,0 +1,6 @@
+﻿SL,Tx_name,PROTOCOL,SERVER_NAME,PATH,REQ_METHOD,EXPECTED_TEXT
+1,HomePage_Tx,https,jmeter.apache.org,,GET,Hi Welcome to Apache
+2,DownloadPage_Tx,https,jmeter.apache.org,/download_jmeter.cgi,GET,This is the Download Screen
+3,GetStarted_Tx,https,jmeter.apache.org,/usermanual/get-started.html,GET,Info on How to Start using Apache
+4,BestPractices_Tx,https,jmeter.apache.org,/usermanual/best-practices.html,GET,This page will tell about Best available practices
+5,FAQ_Page_Tx,https,cwiki.apache.org,/confluence/display/JMETER/JMeterFAQ,GET,This is FAQ Page
